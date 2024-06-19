@@ -4,7 +4,7 @@ body {
     box-sizing: border-box;
     font-family: 'Great Vibes', cursive;
     background: linear-gradient(to bottom right, #ed9fd7, #a6c1ee);
-    background-image: url('/rose2.avif');
+    background-image: url('/rose.avif');
     display: flex;
     justify-content: center;
     align-items: center;
